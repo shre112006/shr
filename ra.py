@@ -1,1 +1,1 @@
-print("RAJATA")
+print("RAJATAmala")
